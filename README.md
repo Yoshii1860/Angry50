@@ -1,6 +1,10 @@
 # Angry 50
 This is a coursework project from Harvard University`s CS50G.
 
+<a href="https://youtu.be/I47y8gS-Lk0">
+    <img alt="Flaticon" title="Flaticon" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="30">
+</a>
+
 # Implemented Features:
 Mid-Flight Split: Spacebar triggers Alien split before collision, tripling projectiles.
 
